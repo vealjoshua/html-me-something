@@ -3,5 +3,6 @@ body {
   background-color: black;
   font-family: 'Sacramento', cursive;
   font-size: 150%;
-  margin: 5em 25%;
+  width: 40%;
+  margin: auto;
 }
